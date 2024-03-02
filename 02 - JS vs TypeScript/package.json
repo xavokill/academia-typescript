@@ -1,0 +1,14 @@
+{
+  "name": "3.2---js-vs-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js-only.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

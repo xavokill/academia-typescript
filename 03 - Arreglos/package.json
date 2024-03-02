@@ -1,0 +1,13 @@
+{
+  "name": "3.3---typescript-en-detalle","version": "1.0.0",
+  "description": "",
+  "main": "js-only.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
